@@ -3,7 +3,7 @@
 ## Project Overview
 
 [LINK TO PROJECT](https://docs.google.com/spreadsheets/d/1EHb_OJeJaVPv-Nzucs92hHXXGcC_DXnDfCmTlSNYzec/edit?usp=sharing)
-
+---
 This project demonstrates how to transform raw e-commerce event logs into actionable business metrics using advanced spreadsheet analytics. As a junior analyst at an e-commerce company, I was tasked with analyzing user activity data to uncover insights about user behavior, conversion rates, and customer retention. The analysis follows a structured approach, from data cleaning to advanced cohort analysis, and is fully documented for transparency and reproducibility.
 
 ## Data Source
