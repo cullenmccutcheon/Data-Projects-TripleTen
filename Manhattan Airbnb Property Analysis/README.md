@@ -1,7 +1,7 @@
 # Manhattan Airbnb Property Analysis
 
 ## Business Intelligence Portfolio Project
-
+[LINK TO PROJECT](https://docs.google.com/spreadsheets/d/1HhwsPi5hr1pvMp4p94ci_fIJ3q6zTYCcYrR50fxo6oY/edit?usp=sharing)
 ---
 
 ## Project Overview
