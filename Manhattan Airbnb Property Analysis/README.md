@@ -113,10 +113,4 @@ This analysis provides actionable insights for investors in the Manhattan Airbnb
 
 ---
 
-## Contact
-
-For questions or collaboration, please contact [Your Name] at [your.email@example.com].
-
----
-
 *This project demonstrates advanced skills in data cleaning, pivot table analysis, and business intelligence storytelling using real-world Airbnb data.*
