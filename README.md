@@ -1,6 +1,8 @@
 # Project_Portfolio
 
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+|   | Project Name         | Directory Link            | Description        |
+|---|----------------------|--------------------------|--------------------|
+| 1 | Zuber SQL         | PROJECT DIRECTORY LINK    | DESCRIPTION HERE.  |
+| 2 | Tableau Zomato         | PROJECT DIRECTORY LINK    | DESCRIPTION HERE.  |
+| 3 | Vacation Rental Insights         | PROJECT DIRECTORY LINK    | DESCRIPTION HERE.  |
+| 4 | Cohort Analysis         | PROJECT DIRECTORY LINK    | DESCRIPTION HERE.  |
