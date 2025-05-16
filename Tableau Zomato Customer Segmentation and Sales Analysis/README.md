@@ -1,9 +1,11 @@
 # Zomato Market Analysis Report
 
 **Dashboard:**  
-[LINK TO PROJECT](https://public.tableau.com/shared/DYYB3JNFN?:display_count=n&:origin=viz_share_link)
-[LINK TO PDF](
----
+[Tableau Dashboard](https://public.tableau.com/shared/DYYB3JNFN?:display_count=n&:origin=viz_share_link)
+
+**PDF:**
+[PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL.pdf)
+
 # Executive Summary
 
 Our analysis of Zomato's sales data reveals key opportunities to drive growth by optimizing how brands (our customers) interact with our platform and product offerings.
