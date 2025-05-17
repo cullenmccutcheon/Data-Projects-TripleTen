@@ -14,25 +14,14 @@ The data shows that Zomato saw strong and consistent sales growth with Domino's 
 
 McDonald's, while a major buyer, typically purchases only one product. Expanding the range of products available to McDonald's presents a clear opportunity to increase their sales.
 
-**Recommendations:**
 
-- Encourage Northern Indian cuisine brands to expand their product variety, leveraging the proven growth trajectory seen with Domino's.
-- Launch targeted marketing and retention programs for high-value, high-frequency brands to maximize their lifetime value.
-- Support partners in developing loyalty programs and personalized offers to move more brands into higher-value purchasing segments.
-- Advise restaurant partners to streamline menus and focus on top-performing items to boost sales efficiency.
-- Monitor city-level trends to identify local growth opportunities and tailor promotional strategies accordingly.
-
-By focusing on expanding product variety and encouraging brands to diversify their purchases, Zomato and its partners can drive stronger sales and unlock new growth across the platform.
 
 # Project Description
+###FEED DECOMP TO ABICUS
 
-# Business Problem
+Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context that can inform growth strategies , improve customer retention, and drive 
 
-Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify actionable intelligence that can inform growth strategies, improve customer retention, and drive operational improvements across the platform.
-
-# Key Insights
-
-## Customer Segmentation Insights
+## Results
 
 **McDonald's**  
 Dominates beverage sales but focuses on just one product, missing out on potential growth from a broader selection.  
@@ -43,34 +32,34 @@ Most brands are low value, engaging only once or infrequently, lagging behind th
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
 The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
 
-**Domino's**  
-Growth is driven by brands that purchase a wide variety of products, resulting in a large share of total sales.  
-Consistently achieves higher sales and revenue across their venues due to a wide product range.
+**Sales to Domino's**  
+Is driven by an increase in the variety of products purchased, resulting in a larger share of our total sales.  
+Consistently achieves higher sales and revenue across their venues due to an increasing variety of products purchased.
 
-## Key Insights 2: Sales & Customer Segmentation
 
-### Sales Performance
+## Conclusions
 
-Domino's leads in both sales and order volume, showing steady growth.  
-McDonald's is the top performer in the beverage segment, maintaining strong sales but with a limited product range.  
-The Northern Indian cuisine segment stands out for its size and diversity, achieving high overall sales despite lower average sales per venue.
+- Domino's leads in both sales and order volume, showing steady growth.  
+- McDonald's is the top performer in the beverage segment, maintaining strong sales but with a limited product range.  
+- The Northern Indian cuisine segment stands out for its size and diversity, achieving high overall sales despite lower average sales per venue/brand.
+- Domino's growth is related to growth in the variety of products they purchase 
+- McDonald's has most of its venues in the low and medium-value segments, indicating an opportunity to grow by expanding their product range.  
+- The Northern Indian cuisine segment is mostly made up of brands with low-value purchasing patterns, highlighting significant untapped potential.
+- Customers spending over 100,000 INR annually represent just 18% of our customer base but drive 45% of total sales.
+- Expanding the variety of products available to brands leads to greater sales growth over time.
+- Sales growth varies widely across both companies and cities, highlighting the importance of nurturing top customers.
+- Consistent growth is fueled by a strong core of repeat brands and steady order volumes across their venues.
+  
 
-### Brand Segmentation
-
-Domino's growth is driven by brands that purchase a wide variety of products.  
-McDonald's has most of its brands in the low and medium-value segments, indicating an opportunity to grow by expanding their product range.  
-The Northern Indian cuisine segment is mostly made up of brands with low-value purchasing patterns, highlighting significant untapped potential.
-
-## Actionable Opportunities
+## Recommendations
 
 Brands that purchase a broader variety of products from Zomato, like Domino's, consistently achieve higher sales growth.  
 The Northern Indian cuisine segment presents the greatest opportunity: by broadening the inventory options available and running targeted campaigns to encourage Northern Indian brands to diversify their purchases, Zomato can unlock substantial sales growth.  
 For McDonald's, expanding the range of products they buy could also drive significant gains.  
 Across all segments, focusing on helping brands move into higher-value purchasing patterns will drive sustainable sales growth and reduce volatility.
-
-## Summary of Important Findings
-
-- **The Golden 18%:** Customers spending over 100,000 INR annually represent just 18% of our customer base but drive 45% of total sales.
-- **Product Range vs. Sales Impact:** Expanding the variety of products available to brands leads to greater sales growth over time.
-- **Sales Growth Patterns:** Sales growth varies widely across both companies and cities, highlighting the importance of nurturing top customers.
-- **Sales Analysis:** Consistent growth is fueled by a strong core of repeat brands and steady order volumes across their venues.
+- Encourage Northern Indian cuisine brands to expand their product variety, leveraging the proven growth trajectory seen with Domino's.
+- Launch targeted marketing and retention programs for high-value, high-frequency brands to maximize their lifetime value.
+- Support partners in developing loyalty programs and personalized offers to move more brands into higher-value purchasing segments.
+- Advise restaurant partners to streamline menus and focus on top-performing items to boost sales efficiency.
+- Monitor city-level trends to identify local growth opportunities and tailor promotional strategies accordingly.
+- By focusing on expanding product variety and encouraging brands to diversify their purchases, Zomato and its partners can drive stronger sales and unlock new growth across the platform.
