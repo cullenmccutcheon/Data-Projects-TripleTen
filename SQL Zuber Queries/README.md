@@ -31,3 +31,7 @@ The database schema includes tables for:
 - Cabs (containing taxi company information)
 - Trips (containing ride details including pickup/dropoff locations and timestamps)
 - Weather records (containing hourly weather condition data)
+
+## Results
+Heres a sample image of my analysis 
+![Table Relations](ERD.png))
