@@ -1,4 +1,4 @@
-# Zomato Market Analysis Report
+# Zomato Customer Segmentation and Sales Analysis
 
 **Dashboard:**  
 [Tableau Dashboard](https://public.tableau.com/shared/DYYB3JNFN?:display_count=n&:origin=viz_share_link)
