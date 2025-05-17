@@ -34,7 +34,7 @@ The database schema includes tables for:
 
 ### Heres a sample image of my analysis 
 
-![Results](SQLAnalysis.png)
+
 
 ## Results
 We found that ride volumes varied significantly between taxi companies, with "Yellow" and "Blue" companies showing distinct patterns. Flash Cab and Taxi Affiliation Services had different ride counts compared to other providers. Weather, especially rain, noticeably increased ride durations from the Loop to O'Hare. Our SQL queries also revealed that passenger demand and trip patterns changed depending on the day of the week and weather conditions.
