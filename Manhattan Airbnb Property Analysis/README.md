@@ -28,7 +28,7 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Identified the top 10 most attractive neighborhoods by total reviews.
 - Determined the most popular property sizes (studios, 1-bedrooms, 2-bedrooms).
 - Analyzed neighborhood-specific preferences for property size.
----Image here
+![Reviews Chart](ReviewsChart.png)
   
 **Revenue Analysis:**  
 - Filtered for top listings (most popular size in each top neighborhood).
@@ -41,27 +41,15 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 
 ## Results
 
-**Top 3 Most Attractive Neighborhoods:**  
-- Lower East Side  
-- Hell's Kitchen  
-- Harlem
+The Lower East Side, Hell's Kitchen, and Harlem emerged as the most attractive neighborhoods for Airbnb rentals. Studios, 1-bedrooms, and 2-bedrooms were the most popular property sizes among guests. Neighborhood preferences varied, with 1-bedrooms being especially popular in Harlem. The top-earning listing generated $29,940 in 30 days, projecting to $359,280 annually.
 
-**Top 3 Most Popular Property Sizes:**  
-- Studios  
-- 1-bedrooms  
-- 2-bedrooms
+## Conclusions
 
-**Neighborhood Preferences:**  
-- Example: 1-bedroom is the most popular in Harlem.
+Manhattan’s Airbnb market shows clear trends in both neighborhood and property size preferences. Investors can maximize occupancy by focusing on the most in-demand areas and unit types. Revenue potential is significant, especially for well-located and appropriately sized properties. Data-driven strategies are essential for standing out in a competitive rental landscape.
 
-**Top-Earning Listing:**  
-- Listing ID: `49946551`  
-- 30-day Revenue: **$29,940**  
-- Estimated Annual Revenue: **$359,280**
+## Recommendations
 
-
----
-
+Invest in properties located in the Lower East Side, Hell's Kitchen, or Harlem to capture high demand. Prioritize studios and 1-bedroom units, especially in neighborhoods where they are most popular. Regularly review and adjust pricing based on neighborhood trends and seasonality. Maintain high listing quality and monitor guest reviews to sustain strong rental performance.
 
 
 ---
