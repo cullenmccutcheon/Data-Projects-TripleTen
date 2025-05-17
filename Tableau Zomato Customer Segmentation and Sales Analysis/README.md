@@ -28,7 +28,8 @@ Most buyers in Beverages buy only one product and are in the low or medium-value
 to not only improve sales to those customers but to significantly increase the Beverages segment as a whole because McDonalds
 is the majority share in that market. Like Dominos, theres potential for linear growth in relation to product purchase variety.
 
-![Logo](McDonaldsBubble.png)
+---
+![Logo](McDonaldsBubble.pn)
 
 
 **Paratha Plaza (Largest Buyer of Northern Indian)**  
@@ -36,8 +37,10 @@ Most brands are low value, engaging only once or infrequently, lagging behind th
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
 The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
 
+---
 ![Logo](NorthernIndian.png)
 
+---
 **Domino's Sales**  
 Show a linear relationship between increased product and sales. Domino's consistently achieves higher sales and revenue across their 
 venues due to an increasing variety of products purchased.
