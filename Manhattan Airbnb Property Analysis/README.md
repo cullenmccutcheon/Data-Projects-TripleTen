@@ -28,6 +28,8 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Identified the top 10 most attractive neighborhoods by total reviews.
 - Determined the most popular property sizes (studios, 1-bedrooms, 2-bedrooms).
 - Analyzed neighborhood-specific preferences for property size.
+
+### Reviews Chart
 ![Reviews Chart](ReviewsChart.png)
   
 **Revenue Analysis:**  
