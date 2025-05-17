@@ -1,9 +1,9 @@
 # Manhattan Airbnb Property Analysis
 
-## Business Intelligence Portfolio Project
 [LINK TO PROJECT](https://docs.google.com/spreadsheets/d/1HhwsPi5hr1pvMp4p94ci_fIJ3q6zTYCcYrR50fxo6oY/edit?usp=sharing)
 ---
-[PDF](
+[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Manhattan%20Airbnb%20Property%20Analysis/Manhattan%20Airbnb%20Property%20Analysis.pdf)
+---
 ## Project Overview
 
 You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
