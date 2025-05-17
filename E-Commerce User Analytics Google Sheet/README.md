@@ -4,7 +4,7 @@
 
 [LINK TO PROJECT](https://docs.google.com/spreadsheets/d/1EHb_OJeJaVPv-Nzucs92hHXXGcC_DXnDfCmTlSNYzec/edit?usp=sharing)
 ---
-[PDF]()
+[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/E-Commerce%20User%20Analytics%20Google%20Sheet/E-Commerce%20Cohort%20Analysis.pdf)
 ---
 
 ## Executive Summary
