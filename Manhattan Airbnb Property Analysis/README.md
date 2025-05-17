@@ -39,6 +39,9 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
   - Summed 30-day revenue and estimated annual revenue by multiplying by 12.
 - Ranked top listings by revenue.
 
+### Revenues Chart
+![Revenue Chart](RevenueChart.png)
+
 ---
 
 ## Results
