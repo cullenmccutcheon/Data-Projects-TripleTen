@@ -4,7 +4,7 @@
 ---
 [PDf](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL.pdf)
 ---
-# Executive Summary
+## Executive Summary
 
 Our analysis of Zomato's sales data reveals key opportunities to drive growth by optimizing how brands (our customers) interact with our platform and product offerings.
 
@@ -16,10 +16,9 @@ McDonald's, while a major buyer, typically purchases only one product. Expanding
 
 
 
-# Project Description
-###FEED DECOMP TO ABICUS
+## Project Description
 
-Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context that can inform growth strategies , improve customer retention, and drive 
+Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context that can inform growth strategies , improve customer retention, and identify pain points through customer segmentation and sales analysis.
 
 ## Results
 
