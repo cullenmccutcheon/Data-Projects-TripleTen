@@ -32,9 +32,11 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Analyzed neighborhood-specific preferences for property size.
 
 ### Reviews Chart
-
+---
 ![Reviews Chart](ReviewsChart.png)
-  
+
+
+---  
 **Revenue Analysis:**  
 - Filtered for top listings (most popular size in each top neighborhood).
 - Calculated revenue using the `calendar` sheet:  
