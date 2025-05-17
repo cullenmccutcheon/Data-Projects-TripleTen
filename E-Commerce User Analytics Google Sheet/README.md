@@ -38,10 +38,17 @@ After joining the e-commerce team, my first assignment was to analyze user activ
 - Grouped users into cohorts based on their first purchase month.
 - Added columns for event month, first purchase month, and cohort age to enable detailed tracking.
 
+---
+![Logo](CohortAnalysis.png)
+
+---
 **Retention Rate Calculation:**  
 - Aggregated purchase data by cohort and cohort age.
 - Calculated month-by-month retention rates to reveal patterns in customer engagement and repeat purchases.
 - Summarized findings in a dedicated retention rates sheet for easy reference.
+
+---
+![Logo](RetentionRates.png)
 
 ---
 
