@@ -25,7 +25,7 @@ The project involves:
 
 The database schema includes tables for:
 
-
+![Table Relations](ERD.png)
 
 - Neighborhoods (containing location identifiers and names)
 - Cabs (containing taxi company information)
