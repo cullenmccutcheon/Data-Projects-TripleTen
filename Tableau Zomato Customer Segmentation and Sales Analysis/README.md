@@ -31,7 +31,7 @@ is the majority share in that market. Like Dominos, theres potential for linear 
 ![Logo](McDonaldsBubble.png)
 
 
-**Paratha Plaza (Northern Indian Cuisine)**  
+**Paratha Plaza (Largest Buyer of Northern Indian)**  
 Most brands are low value, engaging only once or infrequently, lagging behind the loyalty seen in other segments.  
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
 The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
@@ -39,8 +39,8 @@ The most populous segment, presenting the greatest opportunity for growth throug
 ![Logo](NorthernIndian.png)
 
 **Domino's Sales**  
-Is driven by an increase in the variety of products purchased, resulting in a larger share of our total sales.  
-Consistently achieves higher sales and revenue across their venues due to an increasing variety of products purchased.
+Show a linear relationship between increased product and sales. Domino's consistently achieves higher sales and revenue across their 
+venues due to an increasing variety of products purchased.
 
 ![Logo](Dominos1.png)
 ![Logo](Dominos2.png)
