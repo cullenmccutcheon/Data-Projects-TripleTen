@@ -1,4 +1,4 @@
-# E-Commerce User Analytics: From Event Logs to Business Metrics
+# E-Commerce Cohort Analysis
 
 ## Project Overview
 
