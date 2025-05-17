@@ -36,12 +36,15 @@ Most brands are low value, engaging only once or infrequently, lagging behind th
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
 The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
 
-
+![Logo](NorthernIndian.png)
 
 **Domino's Sales**  
 Is driven by an increase in the variety of products purchased, resulting in a larger share of our total sales.  
 Consistently achieves higher sales and revenue across their venues due to an increasing variety of products purchased.
 
+![Logo](Dominos1.png)
+![Logo](Dominos2.png)
+![Logo](Dominos3.png)
 
 
 ## Conclusions
