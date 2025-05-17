@@ -22,8 +22,8 @@ Zomato aims to enhance business performance by leveraging data-driven insights f
 
 ## Results
 
-**McDonald's**  
-Dominates beverage sales but focuses on just one product, missing out on potential growth from a broader selection.  
+**1. McDonald's**  
+Dominates beverage sales but focuses on just one product, missing out on potential growth from a broader selection, (refer to "Domino's Sales").
 Most buyers in Beverages buy only one product and are in the low or medium-value segments, presenting an opportunity 
 to not only improve sales to those customers but to significantly increase the Beverages segment as a whole because McDonalds
 is the majority share in that market. Like Dominos, theres potential for linear growth in relation to product purchase variety.
@@ -37,11 +37,13 @@ The most populous segment, presenting the greatest opportunity for growth throug
 
 ![Logo](NorthernIndian.png)
 
-**Sales to Domino's**  
+**Domino's Sales**  
 Is driven by an increase in the variety of products purchased, resulting in a larger share of our total sales.  
 Consistently achieves higher sales and revenue across their venues due to an increasing variety of products purchased.
 
-![Logo](DominosBubble.png)
+![Logo](Dominos1.png)
+![Logo](Dominos2.png)
+![Logo](Dominos3.png)
 
 ## Conclusions
 
