@@ -4,6 +4,13 @@
 ---
 [PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Manhattan%20Airbnb%20Property%20Analysis/Manhattan%20Airbnb%20Property%20Analysis.pdf)
 ---
+
+## Executive Summary
+
+This analysis provides actionable insights for investors in the Manhattan Airbnb market. By focusing on the most attractive neighborhoods and property sizes, and by quantifying revenue potential, this project offers a data-driven roadmap for maximizing returns in the vacation rental sector.
+
+---
+
 ## Project Overview
 
 You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
@@ -96,12 +103,6 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Unnecessary columns are hidden for clarity.
 - Formatting, borders, cell background colors, and font styles are consistent throughout the analysis.
 - All assumptions are clearly documented.
-
----
-
-## Executive Summary
-
-This analysis provides actionable insights for investors in the Manhattan Airbnb market. By focusing on the most attractive neighborhoods and property sizes, and by quantifying revenue potential, this project offers a data-driven roadmap for maximizing returns in the vacation rental sector.
 
 ---
 
