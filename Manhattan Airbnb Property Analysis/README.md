@@ -42,7 +42,7 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 
 ### Revenues Chart
 
-![Revenue Chart](RevenueChart.png)
+
 
 ---
 
