@@ -33,6 +33,7 @@ The database schema includes tables for:
 - Weather records (containing hourly weather condition data)
 
 ### Heres a sample image of my analysis 
+
 ![Results](SQLAnalysis.png)
 
 ## Results
