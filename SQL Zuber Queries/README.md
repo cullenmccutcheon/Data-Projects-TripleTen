@@ -1,9 +1,8 @@
 # Zuber Ride-Sharing SQL Analysis
-
+[LINK TO PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
 ---
 
 ## Executive Summary
-[LINK TO PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
 ---
 This report presents a series of SQL queries designed to analyze ride-sharing data for Zuber in Chicago. The analysis focuses on two key areas:
 
