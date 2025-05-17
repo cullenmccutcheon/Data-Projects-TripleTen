@@ -32,8 +32,10 @@ The database schema includes tables for:
 - Trips (containing ride details including pickup/dropoff locations and timestamps)
 - Weather records (containing hourly weather condition data)
 
-### Heres a sample image of my analysis 
+### Heres a sample image of my analysis:
 
+
+![Results](SQLAnalysis.png)
 
 
 ## Results
