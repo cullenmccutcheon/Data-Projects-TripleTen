@@ -29,7 +29,8 @@ to not only improve sales to those customers but to significantly increase the B
 is the majority share in that market. Like Dominos, theres potential for linear growth in relation to product purchase variety.
 
 ---
-![Logo](McDonaldsBubble.pn)
+
+![Logo](McDonaldsBubble.png)
 
 
 **Paratha Plaza (Largest Buyer of Northern Indian)**  
