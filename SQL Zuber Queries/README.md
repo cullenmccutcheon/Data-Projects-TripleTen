@@ -35,4 +35,3 @@ The database schema includes tables for:
 ## Results
 Heres a sample image of my analysis 
 
-![Analyis]()
