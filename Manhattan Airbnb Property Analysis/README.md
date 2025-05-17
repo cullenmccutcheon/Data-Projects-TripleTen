@@ -4,25 +4,20 @@
 ---
 [PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Manhattan%20Airbnb%20Property%20Analysis/Manhattan%20Airbnb%20Property%20Analysis.pdf)
 ---
-## Project Overview
-
-You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
-
----
 ## Executive Summary
 
 This analysis provides actionable insights for investors in the Manhattan Airbnb market. By focusing on the most attractive neighborhoods and property sizes, and by quantifying revenue potential, this project offers a data-driven roadmap for maximizing returns in the vacation rental sector.
 
 ---
+## Project Overview
 
-## Business Questions
-
+You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
 1. **Which neighborhoods and property sizes (number of bedrooms) are most attractive for vacation rentals?**
 2. **How much money did these listings generate?**
-
+   
 ---
 
-## Analysis Approach
+## Analysis 
 
 **Data Cleaning:**  
 - Cleaned neighborhood column for consistent capitalization and removed trailing spaces (`neighborhood_clean`).
@@ -34,6 +29,7 @@ This analysis provides actionable insights for investors in the Manhattan Airbnb
 - Determined the most popular property sizes (studios, 1-bedrooms, 2-bedrooms).
 - Analyzed neighborhood-specific preferences for property size.
 ---Image here
+  
 **Revenue Analysis:**  
 - Filtered for top listings (most popular size in each top neighborhood).
 - Calculated revenue using the `calendar` sheet:  
@@ -43,7 +39,7 @@ This analysis provides actionable insights for investors in the Manhattan Airbnb
 
 ---
 
-## Key Findings
+## Results
 
 **Top 3 Most Attractive Neighborhoods:**  
 - Lower East Side  
@@ -63,24 +59,10 @@ This analysis provides actionable insights for investors in the Manhattan Airbnb
 - 30-day Revenue: **$29,940**  
 - Estimated Annual Revenue: **$359,280**
 
----
-
-
-## Data Cleaning & Documentation
-
-- All data cleaning steps are documented in a dedicated change log sheet.
-- Raw data is preserved in a separate sheet.
-- Unnecessary columns are hidden for clarity.
-- Formatting, borders, cell background colors, and font styles are consistent throughout the analysis.
-- All assumptions are clearly documented.
 
 ---
 
-## Assumptions
 
-- Reviews are a reliable proxy for rental frequency.
-- Empty bedroom cells represent studio apartments.
-- Revenue is estimated by multiplying 30-day earnings by 12 for annual projection.
 
 ---
 
