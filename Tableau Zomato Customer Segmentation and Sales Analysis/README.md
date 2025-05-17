@@ -6,11 +6,11 @@
 ---
 ## Executive Summary
 
-Our analysis of Zomato's sales data reveals key opportunities to drive growth by optimizing how brands (our customers) interact with our platform and product offerings.
+Our analysis of Zomato's sales data reveals key opportunities to drive growth by increasing product offerings for brands (our customers), specifically Northern Indian Cuisine.
 
 Paratha Plaza is part of the Northern Indian cuisine segment, which is our largest and most diverse. However, most brands in this segment currently have low-value purchasing patterns (limited product variety).
 
-The data shows that Zomato saw strong and consistent sales growth with Domino's as Domino's began to purchase a wider variety of products. If more brands in the Northern Indian segment offered or purchased an expanded product selection, Zomato could potentially see sales growth in that segment. Increasing the variety of options available to brands and encouraging diversity in their purchases could significantly improve sales in this segment.
+The data shows that Zomato saw strong and consistent sales growth with Domino's as Domino's began to purchase a wider variety of products. If more brands in the Northern Indian segment were offered and purchased an expanded product selection, Zomato could potentially see sales growth in that segment. Increasing the variety of options available to brands and encouraging diversity in their purchases could significantly improve sales in this segment.
 
 McDonald's, while a major buyer, typically purchases only one product. Expanding the range of products available to McDonald's presents a clear opportunity to increase their sales.
 
@@ -18,23 +18,30 @@ McDonald's, while a major buyer, typically purchases only one product. Expanding
 
 ## Project Description
 
-Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context that can inform growth strategies , improve customer retention, and identify pain points through customer segmentation and sales analysis.
+Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context using customer segmentation that can inform growth strategies , improve customer retention, and identify pain points through customer segmentation and sales analysis.
 
 ## Results
 
 **McDonald's**  
 Dominates beverage sales but focuses on just one product, missing out on potential growth from a broader selection.  
-Most buyers are in the low or medium-value segments, presenting an opportunity to encourage more frequent purchases or upsell premium drinks.
+Most buyers in Beverages buy only one product and are in the low or medium-value segments, presenting an opportunity 
+to not only improve sales to those customers but to significantly increase the Beverages segment as a whole because McDonalds
+is the majority share in that market. Like Dominos, theres potential for linear growth in relation to product purchase variety.
+
+![Logo](McDonaldsBubble.png)
 
 **Paratha Plaza (Northern Indian Cuisine)**  
 Most brands are low value, engaging only once or infrequently, lagging behind the loyalty seen in other segments.  
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
 The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
 
+![Logo](NorthernIndian.png)
+
 **Sales to Domino's**  
 Is driven by an increase in the variety of products purchased, resulting in a larger share of our total sales.  
 Consistently achieves higher sales and revenue across their venues due to an increasing variety of products purchased.
 
+![Logo](DominosBubble.png)
 
 ## Conclusions
 
