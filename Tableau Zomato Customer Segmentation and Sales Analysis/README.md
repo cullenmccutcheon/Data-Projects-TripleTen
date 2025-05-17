@@ -33,6 +33,7 @@ is the majority share in that market. Like Dominos, theres potential for linear 
 ![Logo](McDonaldsBubble.png)
 
 
+---
 **Paratha Plaza (Largest Buyer of Northern Indian)**  
 Most brands are low value, engaging only once or infrequently, lagging behind the loyalty seen in other segments.  
 Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
