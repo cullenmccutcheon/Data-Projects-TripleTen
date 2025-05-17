@@ -3,7 +3,7 @@
 ---
 
 ## Executive Summary
----
+
 This report presents a series of SQL queries designed to analyze ride-sharing data for Zuber in Chicago. The analysis focuses on two key areas:
 
 1. Exploratory Data Analysis: Examining taxi company distribution and ride volumes during November 2017, with specific attention to companies containing "Yellow" or "Blue" in their names, and comparing Flash Cab and Taxi Affiliation Services against other providers.
