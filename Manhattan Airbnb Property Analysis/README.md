@@ -3,7 +3,7 @@
 ## Business Intelligence Portfolio Project
 [LINK TO PROJECT](https://docs.google.com/spreadsheets/d/1HhwsPi5hr1pvMp4p94ci_fIJ3q6zTYCcYrR50fxo6oY/edit?usp=sharing)
 ---
-
+[PDF](
 ## Project Overview
 
 You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
