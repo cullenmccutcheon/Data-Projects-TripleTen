@@ -13,13 +13,15 @@ This project demonstrates how raw e-commerce event logs can be transformed into 
 
 ---
 
-## Project Overview
+## Project Description
 
 After joining the e-commerce team, my first assignment was to analyze user activity data and help the company better understand its customers. The project leverages detailed event logs to answer two key business questions:
 1. **How effectively does the website convert product views into purchases?**
 2. **How well does the company retain customers over time?**
 
 ---
+
+### Analysis
 
 
 **Conversion Funnel:**  
