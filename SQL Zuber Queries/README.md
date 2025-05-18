@@ -26,7 +26,7 @@ The project involves:
 The database schema includes tables for:
 
 ---
-![Table Relations](ERD.pn)
+![Table Relations](ERD.png)
 
 - Neighborhoods (containing location identifiers and names)
 - Cabs (containing taxi company information)
@@ -36,7 +36,7 @@ The database schema includes tables for:
 ### Heres a sample image of my analysis:
 
 ---
-![Results](SQLAnalysis.pn)
+![Results](SQLAnalysis.png)
 
 
 ## Results
