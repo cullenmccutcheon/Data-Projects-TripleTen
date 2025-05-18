@@ -21,12 +21,6 @@ After joining the e-commerce team, my first assignment was to analyze user activ
 
 ---
 
-## Analysis
-
-**Data Cleaning:**  
-- Standardized user activity data for consistency and accuracy.
-- Filtered and organized events to focus on meaningful user actions.
-- Documented all cleaning steps and preserved the original dataset for reference.
 
 **Conversion Funnel:**  
 - Built a three-stage funnel (product view → cart open → purchase) using pivot tables.
@@ -39,7 +33,7 @@ After joining the e-commerce team, my first assignment was to analyze user activ
 - Added columns for event month, first purchase month, and cohort age to enable detailed tracking.
 
 ---
-![Logo](CohortAnalysis.png)
+![Cohort Analysis](CohortAnalysis.png)
 
 ---
 **Retention Rate Calculation:**  
@@ -48,7 +42,7 @@ After joining the e-commerce team, my first assignment was to analyze user activ
 - Summarized findings in a dedicated retention rates sheet for easy reference.
 
 ---
-![Logo](RetentionRates.png)
+![Retention Rates](RetentionRates.png)
 
 ---
 
