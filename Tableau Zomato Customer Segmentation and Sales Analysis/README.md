@@ -2,7 +2,7 @@
 
 [Tableau Dashboard](https://public.tableau.com/views/ZomatoCustomerSegmentationandSalesAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
-[PDf](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL%20(1).pdf)
+[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL%20(1).pdf)
 ---
 ## Executive Summary
 
