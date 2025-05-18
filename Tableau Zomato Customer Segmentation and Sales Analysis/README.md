@@ -1,84 +1,79 @@
-# Zomato Customer Segmentation and Sales Analysis
+# Zomato Market Analysis Report
 
-[Tableau Dashboard](https://public.tableau.com/views/ZomatoCustomerSegmentationandSalesAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
----
-[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL%20(1).pdf)
----
 ## Executive Summary
 
-Our analysis of Zomato's sales data reveals key opportunities to drive growth by increasing product offerings for brands (our customers), specifically Northern Indian Cuisine.
+Our analysis of Zomato's sales data reveals key opportunities to drive growth by optimizing how brands and their individual venues interact with our platform and product offerings.
 
-Paratha Plaza is part of the Northern Indian cuisine segment, which is our largest and most diverse. However, most brands in this segment currently have low-value purchasing patterns (limited product variety).
+Paratha Plaza is the most profitable brand of the Northern Indian cuisine segment, which is our largest and most diverse segment, as well as the most profitable. However, most brands in this segment currently have low-value purchasing patterns, presenting a significant opportunity for growth.
 
-The data shows that Zomato saw strong and consistent sales growth with Domino's as Domino's began to purchase a wider variety of products. If more brands in the Northern Indian segment were offered and purchased an expanded product selection, Zomato could potentially see sales growth in that segment. Increasing the variety of options available to brands and encouraging diversity in their purchases could significantly improve sales in this segment.
+![Northern Indian Cuisine](images/final/NorthernIndian.png)
 
-McDonald's, while a major buyer, typically purchases only one product. Expanding the range of products available to McDonald's presents a clear opportunity to increase their sales.
+The data shows that Zomato saw strong and consistent sales growth with Domino's as Domino's began to purchase a wider variety of products. If more brands in the Northern Indian segment were offered an expanded product selection, Zomato could potentially see significantly improved sales growth in not just that segment, but the company as a whole.
 
+McDonald's, while a major buyer, typically purchases only one beverage product. Expanding the range of products available to McDonald's presents a clear opportunity to increase sales in the beverages category.
 
+![McDonald's Bubble](images/final/McDonaldsBubble.png)
+
+Domino's is similar to McDonald's in the way it dominates its cuisine segment, and it has many venues. The difference lies in the linearity between its increasing sales trajectory, and increase in product variety.
+
+![Domino's 2018](images/final/Dominos1.png)
+![Domino's Venues](images/final/Dominos2.png)
+![Domino's Sales Dashboard](images/final/Dominos3.png)
 
 ## Project Description
 
-Zomato aims to enhance business performance by leveraging data-driven insights from sales patterns across our restaurant partners and customer base. Our goal is to identify context using customer segmentation that can inform growth strategies , improve customer retention, and identify pain points through customer segmentation and sales analysis.
+### Business Problem
+
+Zomato, a major food distributing company, aims to increase sales by leveraging customer segmentation methodology (RFM) to contextualize sales patterns across our restaurant partners and customer base. Our goal is to develop a narrative that can inform growth strategies, improve customer retention, and understand what is causing the decrease in company-wide sales.
 
 ## Results
 
-**1. McDonald's**  
-Dominates beverage sales but focuses on just one product, missing out on potential growth from a broader selection, (refer to "Domino's Sales").
-Most buyers in Beverages buy only one product and are in the low or medium-value segments, presenting an opportunity 
-to not only improve sales to those customers but to significantly increase the Beverages segment as a whole because McDonalds
-is the majority share in that market. Like Dominos, theres potential for linear growth in relation to product purchase variety.
+Our analysis revealed several key insights:
 
----
+1. **Cuisine Segment Performance**:
+   - Northern Indian cuisine is the largest and most diverse segment, as well as the most profitable
+   - Pizza and Beverages segments are dominated by 1-3 major brands with numerous venues
+   - Most brands in the Northern Indian segment have low-value purchasing patterns
 
-![Logo](McDonaldsBubble.png)
+2. **Brand Performance**:
+   - Domino's showed strong and consistent sales growth as it began to purchase a wider variety of products
+   - McDonald's, while a major buyer, typically purchases only one beverage product
+   - Paratha Plaza is the most profitable brand in the Northern Indian cuisine segment
 
-
----
-**Paratha Plaza (Largest Buyer of Northern Indian)**  
-Most brands are low value, engaging only once or infrequently, lagging behind the loyalty seen in other segments.  
-Attracting more customers each month, but people are spending less per order, indicating room to boost how much each customer buys.  
-The most populous segment, presenting the greatest opportunity for growth through loyalty programs and expanded product offerings.
-
----
-![Logo](NorthernIndian.png)
-
----
-**Domino's Sales**  
-Show a linear relationship between increased product and sales. Domino's consistently achieves higher sales and revenue across their 
-venues due to an increasing variety of products purchased.
-
-![Logo](Dominos1.png)
-
----
-![Logo](Dominos2.png)
-
----
-![Logo](Dominos3.png)
-
+3. **Customer Segmentation**:
+   - High-value customers (RFM score ≥ 10) represent a small percentage of the user base but account for a disproportionately large share of revenue
+   - Most users have a low recency score, indicating they have not made purchases recently
+   - Frequency and Monetary scores show strong correlation; high-spending customers are typically frequent buyers
 
 ## Conclusions
 
-- Domino's leads in both sales and order volume, showing steady growth.  
-- McDonald's is the top performer in the beverage segment, maintaining strong sales but with a limited product range.  
-- The Northern Indian cuisine segment stands out for its size and diversity, achieving high overall sales despite lower average sales per venue/brand.
-- Domino's growth is related to growth in the variety of products they purchase 
-- McDonald's has most of its venues in the low and medium-value segments, indicating an opportunity to grow by expanding their product range.  
-- The Northern Indian cuisine segment is mostly made up of brands with low-value purchasing patterns, highlighting significant untapped potential.
-- Customers spending over 100,000 INR annually represent just 18% of our customer base but drive 45% of total sales.
-- Expanding the variety of products available to brands leads to greater sales growth over time.
-- Sales growth varies widely across both companies and cities, highlighting the importance of nurturing top customers.
-- Consistent growth is fueled by a strong core of repeat brands and steady order volumes across their venues.
-  
+The analysis points to several strategic opportunities:
+
+1. Expanding product variety, particularly in the Northern Indian cuisine segment, could drive significant sales growth
+2. The success with Domino's proves that product variety drives sales
+3. McDonald's venues present an opportunity to expand beverage options
+4. Venue-level monitoring can identify local growth opportunities
+5. Targeting high-value venues with specialized programs can maximize their lifetime value
 
 ## Recommendations
 
-Brands that purchase a broader variety of products from Zomato, like Domino's, consistently achieve higher sales growth.  
-The Northern Indian cuisine segment presents the greatest opportunity: by broadening the inventory options available and running targeted campaigns to encourage Northern Indian brands to diversify their purchases, Zomato can unlock substantial sales growth.  
-For McDonald's, expanding the range of products they buy could also drive significant gains.  
-Across all segments, focusing on helping brands move into higher-value purchasing patterns will drive sustainable sales growth and reduce volatility.
-- Encourage Northern Indian cuisine brands to expand their product variety, leveraging the proven growth trajectory seen with Domino's.
-- Launch targeted marketing and retention programs for high-value, high-frequency brands to maximize their lifetime value.
-- Support partners in developing loyalty programs and personalized offers to move more brands into higher-value purchasing segments.
-- Advise restaurant partners to streamline menus and focus on top-performing items to boost sales efficiency.
-- Monitor city-level trends to identify local growth opportunities and tailor promotional strategies accordingly.
-- By focusing on expanding product variety and encouraging brands to diversify their purchases, Zomato and its partners can drive stronger sales and unlock new growth across the platform.
+1. Increase inventory variety, specifically in the Pizza, Beverages, and Northern Indian Cuisine segments, and run a marketing campaign for these new products
+2. Offer Northern Indian brands expanded product variety, leveraging the proven growth trajectory seen with Domino's
+3. In the Northern Indian segment, campaign focus should be broadly focused on all brands
+4. Launch targeted retention programs for high-value, high-frequency brands like McDonald's and Pizza Hut by offering bulk sales discounts and novel product purchase discounts
+5. Develop return buyer discount programs with personalized offers to shift mid-value brands into high-value segments
+6. Monitor venue-level trends to identify local growth opportunities and tailor promotional strategies accordingly
+
+Zomato can reverse sales declines by strategically engaging restaurant partners' venues to increase their purchasing value. Key opportunities:
+- The Golden 18%: Customers spending over 100,000 INR annually represent just 18% of our customer base but drive 45% of total sales.
+- Northern Indian Cuisine Potential: The Northern Indian cuisine segment presents the greatest opportunity: by broadening the inventory options available and running targeted campaigns to encourage Northern Indian brands to diversify their purchases, Zomato can unlock substantial sales growth through this segment alone!
+  1. Expand product variety available to venues (regional specialties, complementary items).
+  2. Create "starter packs" of recommended products for Northern Indian venues.
+  3. Implement tiered loyalty programs to incentivize higher-value purchases from these venues.
+  4. Offer bundled discounts on initial and novel product purchases.
+- Replicate the Domino's Model: Zomatos success with Domino's proves product variety drives sales.
+- Maximize McDonald's Beverage Dominance: McDonald's venues are only buying one beverage product! Expand their options with seasonal drinks, premium coffees, and healthier alternatives. Suggestion: Partner with McDonald's to develop exclusive Zomato beverage bundles.
+- Focus on Venue-Level Trends: Monitor what's selling at the venue level and tailor promotions accordingly. Offer incentives to venues based on their local demand.
+- Prioritize High-Value Venues: Launch a "Golden 18%" VIP program to reward top-spending venues with bulk discounts and exclusive offers.
+
+By focusing on these strategies, we can transform low-value brands and their venues into high-value partners, driving sustainable revenue growth for Zomato. This dashboard will track progress and optimize our approach in real-time.
