@@ -11,7 +11,7 @@
 This analysis provides actionable insights for investors in the Manhattan Airbnb market. By focusing on the most attractive neighborhoods and property sizes, and by quantifying revenue potential, this project offers a data-driven roadmap for maximizing returns in the vacation rental sector.
 
 ---
-## Project Overview
+## Project Description
 
 You've been hired to help a client analyze the Manhattan vacation rental market and provide guidance on which property types to invest in. This project leverages NYC Airbnb data to answer key business questions about neighborhood and property size attractiveness, as well as revenue potential for vacation rentals.
 1. **Which neighborhoods and property sizes (number of bedrooms) are most attractive for vacation rentals?**
