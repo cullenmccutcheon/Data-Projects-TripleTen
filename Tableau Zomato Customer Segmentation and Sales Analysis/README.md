@@ -48,7 +48,11 @@ Show a linear relationship between increased product and sales. Domino's consist
 venues due to an increasing variety of products purchased.
 
 ![Logo](Dominos1.png)
+
+---
 ![Logo](Dominos2.png)
+
+---
 ![Logo](Dominos3.png)
 
 
