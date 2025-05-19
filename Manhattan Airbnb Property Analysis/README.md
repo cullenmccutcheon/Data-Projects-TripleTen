@@ -4,8 +4,7 @@
 ---
 [PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Manhattan%20Airbnb%20Property%20Analysis/Manhattan%20Airbnb%20Property%20Analysis.pdf)
 ---
-[RAW DATA](https://docs.google.com/spreadsheets/d/1qdnGCyf_eMhtXXvbPIc8wnz3WIlllL2GnlYvVBlufx8/copy)
----
+
 
 ## Project Description
 
