@@ -32,6 +32,8 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Analyzed neighborhood-specific preferences for property size.
 
 ### Reviews Chart
+
+
 ---
 ![Reviews Chart](ReviewsChart.png)
 
@@ -45,6 +47,8 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 - Ranked top listings by revenue.
 
 ### Revenues Chart
+
+
 ---
 ![Revenue Chart](RevenueChart.png)
 
