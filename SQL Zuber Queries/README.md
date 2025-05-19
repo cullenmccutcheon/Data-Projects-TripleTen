@@ -23,16 +23,6 @@ The project involves:
 - Examining how weather conditions impact ride durations between key locations
 - Identifying patterns specific to certain days of the week and weather conditions
 
-The database schema includes tables for:
-
----
-![Table Relations](ERD.png)
-
-- Neighborhoods (containing location identifiers and names)
-- Cabs (containing taxi company information)
-- Trips (containing ride details including pickup/dropoff locations and timestamps)
-- Weather records (containing hourly weather condition data)
-
 ### Heres a sample image of my analysis:
 
 ---
