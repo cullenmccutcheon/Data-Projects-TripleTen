@@ -3,6 +3,16 @@
 ---
 ## Raw Data and Project Link Require Authentication 
 
+## Project Description
+
+Zuber, a ride-sharing company, is analyzing taxi ride data in Chicago to understand passenger preferences and how external factors affect rides. The database contains information about neighborhoods, cabs, trips, and weather conditions.
+
+The project involves:
+
+- Analyzing ride distribution across different taxi companies
+- Examining how weather conditions impact ride durations between key locations
+- Identifying patterns specific to certain days of the week and weather conditions
+
 ## Executive Summary
 
 This report presents a series of SQL queries designed to analyze ride-sharing data for Zuber in Chicago. The analysis focuses on two key areas:
@@ -13,16 +23,6 @@ This report presents a series of SQL queries designed to analyze ride-sharing da
 The queries are optimized for readability and adherence to SQL best practices. The findings from these queries will help Zuber understand passenger preferences and external factors affecting ride patterns in Chicago.
 
 ---
-
-## Project Description
-
-Zuber, a ride-sharing company, is analyzing taxi ride data in Chicago to understand passenger preferences and how external factors affect rides. The database contains information about neighborhoods, cabs, trips, and weather conditions.
-
-The project involves:
-
-- Analyzing ride distribution across different taxi companies
-- Examining how weather conditions impact ride durations between key locations
-- Identifying patterns specific to certain days of the week and weather conditions
 
 ### Heres a sample image of my analysis:
 
