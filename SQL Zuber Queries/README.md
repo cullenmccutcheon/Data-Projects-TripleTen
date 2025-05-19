@@ -26,7 +26,7 @@ The project involves:
 
 ### Heres a sample image of my analysis:
 
----
+
 ![Results](SQLAnalysis.png)
 
 
