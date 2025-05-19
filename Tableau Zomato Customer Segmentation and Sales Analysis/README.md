@@ -1,5 +1,11 @@
 # Zomato Market Analysis Report
 
+##[LINK TO PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
+
+##[PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
+
+---
+
 ## Executive Summary
 
 Our analysis of Zomato's sales data reveals key opportunities to drive growth by increasing increasing inventory variety and optimizing campaigns to inform, encourage and reward brands and their individual venues.
