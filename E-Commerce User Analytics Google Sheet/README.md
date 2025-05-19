@@ -7,19 +7,19 @@
 [RAW DATA](https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit#gid=0)
 ---
 
-## Executive Summary
-
-This project demonstrates how raw e-commerce event logs can be transformed into actionable business metrics using advanced spreadsheet analytics. As a junior analyst, I was tasked with uncovering insights about user behavior, conversion rates, and customer retention. The analysis follows a structured approach, from data cleaning to advanced cohort analysis, and is fully documented for transparency and reproducibility. The findings offer a clear roadmap for improving user engagement and driving business growth.
-
----
-
 ## Project Description
 
 After joining the e-commerce team, my first assignment was to analyze user activity data and help the company better understand its customers. The project leverages detailed event logs to answer two key business questions:
 1. **How effectively does the website convert product views into purchases?**
 2. **How well does the company retain customers over time?**
 
+
+## Executive Summary
+
+This project demonstrates how raw e-commerce event logs can be transformed into actionable business metrics using advanced spreadsheet analytics. As a junior analyst, I was tasked with uncovering insights about user behavior, conversion rates, and customer retention. The analysis follows a structured approach, from data cleaning to advanced cohort analysis, and is fully documented for transparency and reproducibility. The findings offer a clear roadmap for improving user engagement and driving business growth.
+
 ---
+
 
 ### Analysis
 
