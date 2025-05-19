@@ -19,7 +19,7 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
    
 ---
 
-## Analysis 
+### Analysis 
 
 **Data Cleaning:**  
 - Cleaned neighborhood column for consistent capitalization and removed trailing spaces (`neighborhood_clean`).
