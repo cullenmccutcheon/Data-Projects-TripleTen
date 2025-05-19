@@ -7,6 +7,12 @@
 [RAW DATA](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
 ---
 
+## Project Description
+
+### Business Problem
+
+Zomato, a major food distributing company, aims to increase sales by leveraging customer segmentation methodology (RFM) to contextualize sales patterns across our restaurant partners and customer base. Our goal is to develop a narrative that can inform growth strategies, improve customer retention, and understand what is causing the decrease in company-wide sales.
+
 ## Executive Summary
 
 Our analysis of Zomato's sales data reveals key opportunities to drive growth by increasing increasing inventory variety and optimizing campaigns to inform, encourage and reward brands and their individual venues.
@@ -27,11 +33,6 @@ Domino's is similar to McDonald's in the way it dominates its cuisine segment, a
 ![Domino's Venues](Dominos2.png)
 ![Domino's Sales Dashboard](Dominos3.png)
 
-## Project Description
-
-### Business Problem
-
-Zomato, a major food distributing company, aims to increase sales by leveraging customer segmentation methodology (RFM) to contextualize sales patterns across our restaurant partners and customer base. Our goal is to develop a narrative that can inform growth strategies, improve customer retention, and understand what is causing the decrease in company-wide sales.
 
 ## Results
 
