@@ -4,8 +4,7 @@
 ---
 [PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/E-Commerce%20User%20Analytics%20Google%20Sheet/E-Commerce%20Cohort%20Analysis.pdf)
 ---
-[RAW DATA](https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit#gid=0)
----
+
 
 ## Project Description
 
