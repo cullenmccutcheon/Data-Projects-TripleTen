@@ -1,6 +1,7 @@
 # Zuber Ride-Sharing SQL Analysis
 [PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
 ---
+## Raw Data and Project Link Require Authentication 
 
 ## Executive Summary
 
