@@ -35,7 +35,8 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 
 
 ---
-![Reviews Chart](ReviewsChart.png)
+
+![ReviewsChart](ReviewsChart.png)
 
 
 ---  
@@ -50,7 +51,8 @@ You've been hired to help a client analyze the Manhattan vacation rental market 
 
 
 ---
-![Revenue Chart](RevenueChart.png)
+
+![RevenueChart](RevenueChart.png)
 
 
 ---
