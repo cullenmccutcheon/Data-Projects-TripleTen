@@ -4,8 +4,7 @@
 ---
 [PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis.pdf)
 ---
-[RAW DATA](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
----
+
 
 ## Project Description
 
