@@ -2,23 +2,23 @@
 
 ## Executive Summary
 
-Our analysis of Zomato's sales data reveals key opportunities to drive growth by optimizing how brands and their individual venues interact with our platform and product offerings.
+Our analysis of Zomato's sales data reveals key opportunities to drive growth by increasing increasing inventory variety and optimizing campaigns to inform, encourage and reward brands and their individual venues.
 
 Paratha Plaza is the most profitable brand of the Northern Indian cuisine segment, which is our largest and most diverse segment, as well as the most profitable. However, most brands in this segment currently have low-value purchasing patterns, presenting a significant opportunity for growth.
 
-![Northern Indian Cuisine](images/final/NorthernIndian.png)
+![Northern Indian Cuisine](NorthernIndian.png)
 
 The data shows that Zomato saw strong and consistent sales growth with Domino's as Domino's began to purchase a wider variety of products. If more brands in the Northern Indian segment were offered an expanded product selection, Zomato could potentially see significantly improved sales growth in not just that segment, but the company as a whole.
 
 McDonald's, while a major buyer, typically purchases only one beverage product. Expanding the range of products available to McDonald's presents a clear opportunity to increase sales in the beverages category.
 
-![McDonald's Bubble](images/final/McDonaldsBubble.png)
+![McDonald's Bubble](McDonaldsBubble.png)
 
 Domino's is similar to McDonald's in the way it dominates its cuisine segment, and it has many venues. The difference lies in the linearity between its increasing sales trajectory, and increase in product variety.
 
-![Domino's 2018](images/final/Dominos1.png)
-![Domino's Venues](images/final/Dominos2.png)
-![Domino's Sales Dashboard](images/final/Dominos3.png)
+![Domino's 2018](Dominos1.png)
+![Domino's Venues](Dominos2.png)
+![Domino's Sales Dashboard](Dominos3.png)
 
 ## Project Description
 
