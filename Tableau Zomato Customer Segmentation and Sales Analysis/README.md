@@ -1,8 +1,8 @@
 # Zomato Market Analysis Report
 
-##[LINK TO PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
+[Project](https://public.tableau.com/views/ZomatoCustomerSegmentationandSalesAnalysis/CuisineCategoryOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-##[PDF](https://github.com/cullenmccutcheon/Project_Portfolio/blob/main/SQL%20Zuber%20Queries/SQL%20Zuber%20Full%20Report.pdf)
+[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis/Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis%20FINAL%20(1).pdf)
 
 ---
 
