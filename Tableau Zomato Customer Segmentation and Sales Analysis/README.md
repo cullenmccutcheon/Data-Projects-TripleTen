@@ -2,7 +2,7 @@
 
 [PROJECT LINK](https://public.tableau.com/shared/YQW4ND5K7?:display_count=n&:origin=viz_share_link)
 ---
-[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/tree/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis)
+[PDF](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/tree/main/Tableau%20Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis#:~:text=20%20minutes%20ago-,Zomato%20Customer%20Segmentation%20and%20Sales%20Analysis.pdf,-Add%20files%20via)
 ---
 
 
