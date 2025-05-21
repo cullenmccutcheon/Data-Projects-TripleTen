@@ -3,6 +3,7 @@
 ---
 [Test Project](https://docs.google.com/spreadsheets/d/11V__bxurXwEG23HJdENZdlPvy8ZaOWDwOlkjBjat9Hw/edit?usp=sharing)
 ---
+
 Contextual definitions:
 - ***Iteratively refining the prompt:*** means making small changes to the instructions you give the AI, testing how it responds, and then adjusting those instructions again and again until the AI gives better and more accurate answers.
 
