@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Supersnu.py
+# gemini_reddit_analyzer.py
 
 ---
 [TEST PROJECT](https://docs.google.com/spreadsheets/d/11V__bxurXwEG23HJdENZdlPvy8ZaOWDwOlkjBjat9Hw/edit?usp=sharing)
