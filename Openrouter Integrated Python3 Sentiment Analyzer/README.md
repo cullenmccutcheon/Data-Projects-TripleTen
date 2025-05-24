@@ -7,7 +7,7 @@
 ---
 [FINAL WORKING CODE (Gemini API based)](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Openrouter%20Integrated%20Python3%20Sentiment%20Analyzer/gemini_reddit_analyzer.py)
 ---
-[TRY IT OUT!](https://github.com/cullenmccutcheon/Data-Projects-TripleTen/blob/main/Openrouter%20Integrated%20Python3%20Sentiment%20Analyzer/gemini_reddit_analyzer_toolbox.pdf)
+[TRY IT OUT!]()
 ---
 Contextual definitions:
 - ***Iteratively refining the prompt:*** means making small changes to the instructions you give the AI, testing how it responds, and then adjusting those instructions again and again until the AI gives better and more accurate answers.
