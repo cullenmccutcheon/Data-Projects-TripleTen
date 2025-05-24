@@ -366,7 +366,4 @@ def main():
     # print(f"Sentiment analysis results saved to {output_file}") # Already printed in save_to_csv on success
 
 if __name__ == "__main__":
-    # For Gemini prompt debugging, especially JSON extraction.
-    # Needs to be imported if you uncomment the regex usage.
-    import re 
-    main()
+
