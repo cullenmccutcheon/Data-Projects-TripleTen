@@ -18,7 +18,7 @@ Supersnu is a Python-based sentiment analysis application conceived to provide e
 
 The project encompasses:
 
-- Authenticating and querying Reddit for posts and comments matching a keyword using PRAW.
+- Built basic financial reports and finding a need confirm a hypothesis: "No publicity is bad publicitY"
 - Securely managing API credentials through environment variables, a best practice in application development.
 - Processing collected data in batches for sentiment classification via Google's Gemini API.
 - Engineering highly effective prompts for the Gemini API to ensure precise sentiment classification and structured JSON output.
